@@ -20,7 +20,7 @@ document.getElementById("login-btn").addEventListener("click", function(){
     // sob thik thakle home page a niye jabe ata sobar last a korlam 
         // window.location.replace("/home.html")  // replace deye korle back gele ar dekha jai na home page tai 
         // assain deye korbo ta hole back korleo dekha jebe  
-        window.location.assign("/home.html")
+        window.location.assign("home.html")
 
     }else{
     //3.1 ar jodi false hoy teturn kore debo  // false:::>> alert >> return
